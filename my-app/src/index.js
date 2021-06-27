@@ -2,7 +2,9 @@ import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-// import App from './components/app';
+import App from './components/app';
+
+
 class WhoAmI extends Component {
   constructor(props) {
     super(props);
@@ -11,12 +13,6 @@ class WhoAmI extends Component {
       nationality: "by"
     }
 
-    // this.nextYear = () => {
-    //   this.setState(state => ({
-    //     years: ++state.years
-    //   }))
-    // }
-    // this.nextYear = this.nextYear.bind(this);
   }
 
   nextYear = () => {
@@ -58,7 +54,7 @@ const All =() => {
 
 
 ReactDOM.render(
-  <All/>,
+  <App/>,
   document.getElementById('root')
 );
 
