@@ -1,0 +1,35 @@
+[33mcommit c240b12e0ba1c7d34e5cf2863cba16f6b6b2b9ad[m[33m ([m[1;36mHEAD -> [m[1;32mstyle[m[33m)[m
+Author: Alexandr <scheitanik@gmail.com>
+Date:   Tue Jun 29 10:34:36 2021 +0300
+
+    Fixed function onLike in new branch style
+
+[33mcommit c0cf264c02b986e60156fdcd82248e2ab095673d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Alexandr <scheitanik@gmail.com>
+Date:   Tue Jun 29 10:14:07 2021 +0300
+
+    Added delete function and add function
+
+[33mcommit 821e4672cd33790b11429f447c9af1ae77894615[m
+Author: Alexandr <scheitanik@gmail.com>
+Date:   Mon Jun 28 14:57:15 2021 +0300
+
+    Added styled components
+
+[33mcommit 927f195647966d3ad7bdb553c8107366341670da[m
+Author: Alexandr <scheitanik@gmail.com>
+Date:   Mon Jun 28 11:38:29 2021 +0300
+
+    Added star logical, like not working
+
+[33mcommit 8c292916b7fd717c3ba8326e3d03806562cc2f53[m
+Author: 10kTonn <scheitanik@gmail.com>
+Date:   Sun Jun 27 12:40:39 2021 +0300
+
+    Two Commit
+
+[33mcommit ee4116ba9b5f500f93febb2d88f92414a53346d7[m
+Author: Alexandr <scheitanik@gmail.com>
+Date:   Sun Jun 27 12:14:39 2021 +0300
+
+    Firt Commit
